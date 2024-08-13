@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Decentralized Token Exchange](https://github.com/Heramb4270/Decentralized-Token-Swapping)
 
-- 🌱 I’m currently learning **Javascript , React , Rust , Solidity , Web3.0, NextJS , Redis , Go**
+- 🌱 I’m currently learning **Javascript , React , Rust , Solidity , Web3.0, NextJS, Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Heramb4270](https://github.com/Heramb4270)
 
