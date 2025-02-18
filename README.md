@@ -5,7 +5,9 @@
 </div>
 
 ## About Me
-As a fullstack developer based in India, I'm passionate about crafting elegant solutions to complex problems. With a curious mind and a love for technology, I enjoy both building visually appealing frontends and architecting robust backend systems.
+- As a fullstack developer based in India, I'm passionate about crafting elegant solutions to complex problems. With a curious mind and a love for technology, I enjoy both - building visually appealing frontends and architecting robust backend systems.
+
+- Have Participated in more than 8 Hackathon 🏆 
 
 ### What Drives Me
 - 🌱 The excitement of mastering new technologies
@@ -38,13 +40,6 @@ const heramb = {
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heramb4270&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heramb4270&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## My Github Streak
-<div align="center">
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heramb4270" alt="Heramb's Streak Stats" />
-</p>
 </div>
 
 ## What I'm Working On
