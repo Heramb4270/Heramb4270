@@ -60,8 +60,5 @@ I'm currently focused on mastering modern JavaScript frameworks and expanding my
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heramb4270&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-</div>
 
 <!-- Remember, commit history reflects a developer's journey, not just their destination -->
