@@ -1,27 +1,72 @@
-<h1 align="center">Hi 👋, I'm Heramb Bhoodhar</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+# Hi there, I'm Heramb! 👨‍💻
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986CC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;JavaScript+Enthusiast;React+Explorer;Tech+Problem+Solver" alt="Typing SVG" />
+</div>
 
-<p align="left"> <a href="https://twitter.com/heramb120" target="blank"><img src="https://img.shields.io/twitter/follow/heramb120?logo=twitter&style=for-the-badge" alt="heramb120" /></a> </p>
+## About Me
+As a fullstack developer based in India, I'm passionate about crafting elegant solutions to complex problems. With a curious mind and a love for technology, I enjoy both building visually appealing frontends and architecting robust backend systems.
 
-- 🌱 I’m currently learning **Javascript , React , Rust , Solidity , Web3.0, NextJS, Go**
+### What Drives Me
+- 🌱 The excitement of mastering new technologies
+- 🔍 Finding elegant solutions to challenging problems
+- 🤝 Collaborating with other passionate developers
+- 📚 Continuously expanding my knowledge base
 
-- 👨‍💻 All of my projects are available at [https://github.com/Heramb4270](https://github.com/Heramb4270)
+## My Tech Journey
 
-- 💬 Ask me about **Javascript , React , Web3.0**
+```javascript
+const heramb = {
+  frontendSkills: ['NextJS','JavaScript', 'React', , 'Tailwind CSS'],
+  backendInterests: ['Node.js', 'Go'],
+  cloudDevOps: ['AWS', 'Docker', 'Containerization','Kubernarts'],
+  currentlyLearning: ['Advanced React Patterns', 'System Design', 'Microservices','LLM's'],
+  favoriteEditor: ['VSCode', 'lvim'],
+  dailyRoutine: () => {
+    return [
+      'Write clean code',
+      'Learn something new',
+      'Debug with patience',
+      'Drink coffee (lots of it!)',
+      'Repeat'
+    ];
+  }
+};
+```
 
-- 📫 How to reach me **heramb.bhoodhar@gmail.com**
+## My Coding Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heramb4270&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heramb4270&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/heramb120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heramb120" height="30" width="40" /></a>
+## My Github Streak
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heramb4270" alt="Heramb's Streak Stats" />
 </p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## What I'm Working On
+I'm currently focused on mastering modern JavaScript frameworks and expanding my backend development skills. My goal is to become a versatile developer capable of building end-to-end solutions that are not only functional but also performant and user-friendly.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heramb4270&show_icons=true&locale=en&layout=compact" alt="heramb4270" /></p>
+## Let's Connect!
+<div align="center">
+  <a href="mailto:heramb.bhoodhar@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/heramb120">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Heramb4270">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heramb4270&show_icons=true&locale=en" alt="heramb4270" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heramb4270&" alt="heramb4270" /></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heramb4270&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</div>
+
+<!-- Remember, commit history reflects a developer's journey, not just their destination -->
