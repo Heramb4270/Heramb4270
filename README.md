@@ -7,7 +7,7 @@
 ## About Me
 - As a fullstack developer based in India, I'm passionate about crafting elegant solutions to complex problems. With a curious mind and a love for technology, I enjoy both - building visually appealing frontends and architecting robust backend systems.
 
-- Have Participated in more than 8 Hackathon 🏆 
+- 4x Hackathon Winner 🏆 
 
 ### What Drives Me
 - 🌱 The excitement of mastering new technologies
